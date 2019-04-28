@@ -1,7 +1,7 @@
 # Turing Machine Model
 Turing Machine implemented using Linked List structure. Example implementation of language is given. Can be used to built for any language.
 
-//Visual Studio Project
+##Visual Studio Project
 
 Steps to implement any language:
   1) Create nodes equivalent to states in your turing machine model.
@@ -12,5 +12,9 @@ Steps to implement any language:
   6) Start traversal through the nodes in machine.
               If language is accepted:
                 the function will return 1
-              else
+              else:
                 function will return 0;
+ 
+Please report if any bugs found in code.
+
+###Happy Coding!
